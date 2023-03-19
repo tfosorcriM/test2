@@ -1,0 +1,4 @@
+repository "My project@web10t@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
